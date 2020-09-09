@@ -1,5 +1,5 @@
 package task4;
-
+// простой текст
 /**
  *
  * @author OLEG
