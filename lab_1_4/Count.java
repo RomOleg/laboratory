@@ -15,10 +15,10 @@ public class Count {
         return x + y;
     }
     /**
-     * Умножение двух чисел
+     * Произведение двух чисел
      * @param x - первое число типа int
      * @param y - второе число типа int
-     * @return - вернет сумму двух чисел x и y
+     * @return - вернет произведение двух чисел x и y
      */
     public int multiply(int x , int y) {
         return x * y;
