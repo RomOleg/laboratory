@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <subjects>
+        <subject>
+            <name>Математика</name>
+            <day>Вторник</day>
+            <room>A123</room>
+        </subject>
+        <subject>
+            <name>Физика</name>
+            <day>Среда</day>
+            <room>A234</room>
+        </subject>
+        <subject>
+            <name>История</name>
+            <day>Суббота</day>
+            <room>A543</room>
+        </subject>
+        
+        <subject>
+            <name>Рисование</name>
+            <day>Понедельник</day>
+            <room>A342</room>
+        </subject>
+    </subjects>
+
+    <teachers>
+        <teacher>
+            <name>Сидоров Е.В.</name>
+            <subject>Физика</subject>
+            <lesson>3</lesson>
+            <students>40</students>
+        </teacher>
+
+        <teacher>
+            <name>Иванов И.И.</name>
+            <subject>История</subject>
+            <lesson>2</lesson>
+            <students>18</students>
+        </teacher>
+
+        <teacher>
+            <name>Иголков В.В.</name>
+            <subject>Математика</subject>
+            <lesson>3</lesson>
+            <students>60</students>
+        </teacher>
+
+        <teacher>
+            <name>Петров В.В.</name>
+            <subject>Математика</subject>
+            <lesson>1</lesson>
+            <students>60</students>
+        </teacher>
+        
+        <teacher>
+            <name>Соломов И.В.</name>
+            <subject>Рисование</subject>
+            <lesson>2</lesson>
+            <students>15</students>
+        </teacher>
+        <teacher>
+            <name>Киров И.В.</name>
+            <subject>Рисование</subject>
+            <lesson>1</lesson>
+            <students>15</students>
+        </teacher>
+    </teachers>
+</data>
