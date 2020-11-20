@@ -16,7 +16,7 @@ export class ParseCode {
      */
     compilerObjectCode() {}
     /**
-     * Ворачивает объектный код
+     * Возвращает объектный код
      */
     toObjectCode() {}
 }
